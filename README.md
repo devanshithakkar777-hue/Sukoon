@@ -190,3 +190,7 @@ uvicorn app.main:app
 ## Team
 
 Built by **Team Syntax&Slaughter**.
+
+## License
+
+Released under the [MIT License](LICENSE).
