@@ -1,5 +1,10 @@
 # Sukoon
 
+[![Live demo](https://img.shields.io/badge/Live%20demo-syntax--slaughter.onrender.com-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://syntax-slaughter.onrender.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+> **Try it live:** <https://syntax-slaughter.onrender.com>. The demo runs on free hosting and may take about 50 seconds to wake up on the first visit.
+
 **AI-powered cognitive assistance and caregiver-support platform for elderly patients with dementia and age-related cognitive decline.**
 
 > Sukoon is a cognitive-support, memory-assistance and caregiver-monitoring platform. **It does not diagnose or treat dementia.** AI-generated insights are supportive, explainable, rule-based signals for caregivers and doctors — never a medical diagnosis. Clinical decisions should always be made by qualified healthcare professionals.
