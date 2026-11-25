@@ -189,7 +189,7 @@ uvicorn app.main:app
 
 ## Team
 
-Built by **Team Syntax&Slaughter**.
+Concept by **Team Syntax&Slaughter**. The complete application was built by [Devanshi Thakkar](https://github.com/devanshithakkar777-hue), sole developer.
 
 ## License
 
